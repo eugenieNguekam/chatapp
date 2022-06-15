@@ -1,0 +1,245 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.glbd22021"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:5:1-62
+11-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:5:18-60
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
+15-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:23:5-68
+16-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:23:22-65
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:25:5-82
+17-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:25:22-79
+18
+19    <application
+19-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:7:5-39:19
+20        android:allowBackup="true"
+20-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.5.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\4b18baa9266eba5441dc9be7b537a834\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.GLBD22021" >
+28-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:13:9-47
+29        <activity
+29-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:14:9-16:40
+30            android:name="com.example.glbd22021.activites.ChatActivity"
+30-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:15:13-51
+31            android:exported="false" />
+31-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:16:13-37
+32        <activity
+32-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:17:9-19:58
+33            android:name="com.example.glbd22021.activites.RegisterActivity"
+33-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:18:13-55
+34            android:windowSoftInputMode="adjustResize" />
+34-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:19:13-55
+35        <activity
+35-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:20:9-29:20
+36            android:name="com.example.glbd22021.activites.ConnexionActivity"
+36-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:21:13-56
+37            android:exported="true"
+37-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:22:13-36
+38            android:windowSoftInputMode="adjustResize" >
+38-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:23:13-55
+39            <intent-filter>
+39-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:24:13-28:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:25:17-69
+40-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:25:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:27:17-77
+42-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:27:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity android:name="com.example.glbd22021.activites.MainActivity" />
+45-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:30:9-60
+45-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:30:19-57
+46        <activity android:name="com.example.glbd22021.activites.UtilisateurActivity" />
+46-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:31:9-67
+46-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:31:19-64
+47
+48        <service
+48-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:33:5-38:15
+49            android:name="com.example.glbd22021.firebase.MessageService"
+49-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:33:14-53
+50            android:exported="false" >
+50-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:34:9-33
+51            <intent-filter>
+51-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:35:9-37:25
+52                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+52-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:36:13-73
+52-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:36:21-71
+53            </intent-filter>
+54        </service>
+55        <service
+55-->[com.google.firebase:firebase-messaging-ktx:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\3c5ab299b0e1de1e84ee3f789bc64aa7\transformed\jetified-firebase-messaging-ktx-23.0.0\AndroidManifest.xml:26:9-32:19
+56            android:name="com.google.firebase.components.ComponentDiscoveryService"
+56-->[com.google.firebase:firebase-messaging-ktx:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\3c5ab299b0e1de1e84ee3f789bc64aa7\transformed\jetified-firebase-messaging-ktx-23.0.0\AndroidManifest.xml:27:13-84
+57            android:directBootAware="true"
+57-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+58            android:exported="false" >
+58-->[com.google.firebase:firebase-messaging-ktx:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\3c5ab299b0e1de1e84ee3f789bc64aa7\transformed\jetified-firebase-messaging-ktx-23.0.0\AndroidManifest.xml:28:13-37
+59            <meta-data
+59-->[com.google.firebase:firebase-messaging-ktx:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\3c5ab299b0e1de1e84ee3f789bc64aa7\transformed\jetified-firebase-messaging-ktx-23.0.0\AndroidManifest.xml:29:13-31:85
+60                android:name="com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingKtxRegistrar"
+60-->[com.google.firebase:firebase-messaging-ktx:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\3c5ab299b0e1de1e84ee3f789bc64aa7\transformed\jetified-firebase-messaging-ktx-23.0.0\AndroidManifest.xml:30:17-126
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-messaging-ktx:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\3c5ab299b0e1de1e84ee3f789bc64aa7\transformed\jetified-firebase-messaging-ktx-23.0.0\AndroidManifest.xml:31:17-82
+62            <meta-data
+62-->[com.google.firebase:firebase-firestore-ktx:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\e3b01fa37a2ec4eb4471e8a2656453a5\transformed\jetified-firebase-firestore-ktx-24.0.0\AndroidManifest.xml:15:13-17:85
+63                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar"
+63-->[com.google.firebase:firebase-firestore-ktx:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\e3b01fa37a2ec4eb4471e8a2656453a5\transformed\jetified-firebase-firestore-ktx-24.0.0\AndroidManifest.xml:16:17-126
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-firestore-ktx:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\e3b01fa37a2ec4eb4471e8a2656453a5\transformed\jetified-firebase-firestore-ktx-24.0.0\AndroidManifest.xml:17:17-82
+65            <meta-data
+65-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:20:13-22:85
+66                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+66-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:21:17-111
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\d1716f973584b4b2af17a35d695ea6c1\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:22:17-82
+68            <meta-data
+68-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:52:13-54:85
+69                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+69-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:53:17-119
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:54:17-82
+71            <meta-data
+71-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\035d24a8374ef20d5e3a2716503b72a5\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+72                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+72-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\035d24a8374ef20d5e3a2716503b72a5\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\035d24a8374ef20d5e3a2716503b72a5\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+74            <meta-data
+74-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\c137ade36650dd77119de994eeaa1744\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+75                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+75-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\c137ade36650dd77119de994eeaa1744\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\c137ade36650dd77119de994eeaa1744\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\a844cd1cfb8e0f3354c1720799017d59\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+78                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+78-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\a844cd1cfb8e0f3354c1720799017d59\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\a844cd1cfb8e0f3354c1720799017d59\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+80        </service>
+81
+82        <receiver
+82-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:28:9-35:20
+83            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+83-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:29:13-78
+84            android:exported="true"
+84-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:30:13-36
+85            android:permission="com.google.android.c2dm.permission.SEND" >
+85-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:31:13-73
+86            <intent-filter>
+86-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:32:13-34:29
+87                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+87-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:33:17-81
+87-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:33:25-78
+88            </intent-filter>
+89        </receiver>
+90        <!--
+91             FirebaseMessagingService performs security checks at runtime,
+92             but set to not exported to explicitly avoid allowing another app to call it.
+93        -->
+94        <service
+94-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:41:9-48:19
+95            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+95-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:42:13-82
+96            android:directBootAware="true"
+96-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:43:13-43
+97            android:exported="false" >
+97-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\04a8ee5b62b2d027defbfdfe71886768\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:44:13-37
+98            <intent-filter android:priority="-500" >
+98-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:35:9-37:25
+99                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+99-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:36:13-73
+99-->C:\Users\HP EliteBook\AndroidStudioProjects\GLBD22021\app\src\main\AndroidManifest.xml:36:21-71
+100            </intent-filter>
+101        </service>
+102        <service
+102-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\f349ce8179ca479f612151e47b98bcbb\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+103            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+103-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\f349ce8179ca479f612151e47b98bcbb\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+104            android:exported="false" >
+104-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\f349ce8179ca479f612151e47b98bcbb\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+105            <meta-data
+105-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\f349ce8179ca479f612151e47b98bcbb\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+106                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+106-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\f349ce8179ca479f612151e47b98bcbb\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+107                android:value="cct" />
+107-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\f349ce8179ca479f612151e47b98bcbb\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+108        </service>
+109
+110        <provider
+110-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+111            android:name="com.google.firebase.provider.FirebaseInitProvider"
+111-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+112            android:authorities="com.example.glbd22021.firebaseinitprovider"
+112-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+113            android:directBootAware="true"
+113-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+114            android:exported="false"
+114-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+115            android:initOrder="100" />
+115-->[com.google.firebase:firebase-common:20.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\45b4a080f8d120803c4464eae4da744b\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+116
+117        <activity
+117-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+118            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+118-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+119            android:exported="false"
+119-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+120            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+120-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\61327252b97b04f60e697e9245a0fce3\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+121
+122        <meta-data
+122-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\HP EliteBook\.gradle\caches\transforms-3\36228c07308400f48f76ca27b798e100\transformed\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+123            android:name="com.google.android.gms.version"
+123-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\HP EliteBook\.gradle\caches\transforms-3\36228c07308400f48f76ca27b798e100\transformed\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+124            android:value="@integer/google_play_services_version" />
+124-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\HP EliteBook\.gradle\caches\transforms-3\36228c07308400f48f76ca27b798e100\transformed\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+125
+126        <service
+126-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\afeca0576ed79ed17f160dead3ee24f5\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+127            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+127-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\afeca0576ed79ed17f160dead3ee24f5\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+128            android:exported="false"
+128-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\afeca0576ed79ed17f160dead3ee24f5\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+129            android:permission="android.permission.BIND_JOB_SERVICE" >
+129-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\afeca0576ed79ed17f160dead3ee24f5\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+130        </service>
+131
+132        <receiver
+132-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\afeca0576ed79ed17f160dead3ee24f5\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+133            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+133-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\afeca0576ed79ed17f160dead3ee24f5\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+134            android:exported="false" />
+134-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\HP EliteBook\.gradle\caches\transforms-3\afeca0576ed79ed17f160dead3ee24f5\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+135    </application>
+136
+137</manifest>
