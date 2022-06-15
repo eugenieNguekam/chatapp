@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_utilisateur.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\activity_utilisateur.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_sent_message.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\background_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_chat_input.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\background_chat_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_received_message.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\background_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_containeur_utilisateur.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\containeur_utilisateur.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_content_bottom.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\background_content_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_content_top.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\background_content_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_imagebackground.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\imagebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_deconnexion.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\ic_deconnexion.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_connexion.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\activity_connexion.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_item_container_sent_message.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\item_container_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_inputbackground.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\inputbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\layout_item_container_received_message.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\layout\\item_container_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_icon.xml.flat",
+        "source": "C:\\Users\\HP EliteBook\\AndroidStudioProjects\\GLBD22021\\app\\src\\main\\res\\drawable\\background_icon.xml"
+    }
+]
