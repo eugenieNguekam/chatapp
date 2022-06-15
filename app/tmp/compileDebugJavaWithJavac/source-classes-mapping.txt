@@ -1,0 +1,47 @@
+com/example/glbd22021/BuildConfig.java
+ com.example.glbd22021.BuildConfig
+com/example/glbd22021/activites/ConnexionActivity.java
+ com.example.glbd22021.activites.ConnexionActivity
+utils/PreferenceManager.java
+ utils.PreferenceManager
+com/example/glbd22021/databinding/ActivityMainBinding.java
+ com.example.glbd22021.databinding.ActivityMainBinding
+com/example/glbd22021/activites/ChatActivity.java
+ com.example.glbd22021.activites.ChatActivity
+com/example/glbd22021/databinding/ContaineurUtilisateurBinding.java
+ com.example.glbd22021.databinding.ContaineurUtilisateurBinding
+com/example/glbd22021/activites/UtilisateurActivity.java
+ com.example.glbd22021.activites.UtilisateurActivity
+com/example/glbd22021/activites/MainActivity.java
+ com.example.glbd22021.activites.MainActivity
+com/example/glbd22021/databinding/ActivityConnexionBinding.java
+ com.example.glbd22021.databinding.ActivityConnexionBinding
+utils/Constante.java
+ utils.Constante
+com/example/glbd22021/databinding/ItemContainerReceivedMessageBinding.java
+ com.example.glbd22021.databinding.ItemContainerReceivedMessageBinding
+com/example/glbd22021/activites/RegisterActivity.java
+ com.example.glbd22021.activites.RegisterActivity
+com/example/glbd22021/firebase/MessageService.java
+ com.example.glbd22021.firebase.MessageService
+com/example/glbd22021/adapteur/AdaptateurUtilisateurs.java
+ com.example.glbd22021.adapteur.AdaptateurUtilisateurs
+ com.example.glbd22021.adapteur.AdaptateurUtilisateurs$VueUtilisateur
+com/example/glbd22021/listeners/UtilisateurListener.java
+ com.example.glbd22021.listeners.UtilisateurListener
+com/example/glbd22021/databinding/ActivityUtilisateurBinding.java
+ com.example.glbd22021.databinding.ActivityUtilisateurBinding
+com/example/glbd22021/databinding/ActivityChatBinding.java
+ com.example.glbd22021.databinding.ActivityChatBinding
+com/example/glbd22021/databinding/ActivityRegisterBinding.java
+ com.example.glbd22021.databinding.ActivityRegisterBinding
+com/example/glbd22021/modeles/Utilisateur.java
+ com.example.glbd22021.modeles.Utilisateur
+com/example/glbd22021/modeles/ChatMessage.java
+ com.example.glbd22021.modeles.ChatMessage
+com/example/glbd22021/databinding/ItemContainerSentMessageBinding.java
+ com.example.glbd22021.databinding.ItemContainerSentMessageBinding
+com/example/glbd22021/adapteur/AdaptateurChat.java
+ com.example.glbd22021.adapteur.AdaptateurChat
+ com.example.glbd22021.adapteur.AdaptateurChat$ReceivedMessageViewHolder
+ com.example.glbd22021.adapteur.AdaptateurChat$SentMessageViewHolder
