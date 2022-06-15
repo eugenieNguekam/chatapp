@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#04fadf</color>
+    <color name="primary_dark">#03A9F4</color>
+    <color name="input_background">#e5f7f5</color>
+    <color name="error">#fa0606</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_text">#676464</color>
+    <color name="secondary_text">#989696</color>
+    <color name="received_message_background">#22F12A</color>
+</resources>
